@@ -1,1 +1,1 @@
-# Index of publically available DOXL manifests
+# DOXL Index
