@@ -5,7 +5,7 @@
       "title": "PK21 Kt. Zürich: EDB",
       "description": "Prüflisten-, Protokoll- und weitere Dokumentvorlagen für die IPA der Entwickler/innen digitales Business (EDB) im Kanton Zürich.",
       "url": "https://raw.githubusercontent.com/pk21-ch/edb-doxl/refs/heads/main/manifest.json",
-      "authors": {
+      "author": {
         "name": "Prüfungskommission 21 im Kanton Zürich",
         "url": "https://pk21.ch"
       },
